@@ -1,0 +1,6 @@
+1. My favorite programming language is java since it's the one 
+that I started programming with. Realistically though python is much
+simpler and I wish I would've started with that. 
+
+2. After taking 3114, java is definitely my most experience programming language.
+Most of the core CS classes at tech are based on java. 
